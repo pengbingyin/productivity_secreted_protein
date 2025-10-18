@@ -10,11 +10,13 @@ Komagataella phaffii,2006.291667,Phytase,Minimal,89,o,green,0.3,-1,0.2
 Komagataella phaffii,2017.208333,Laccase,Minimal,7,o,green,0.3,-1,-0.2
 Komagataella phaffii,2015.208333,Laccase,Minimal,6,o,green,0.3,0,-0.3
 Komagataella phaffii,2025.208333,Chaperone,Minimal,1,o,green,0.3,-1,-0.2
-Komagataella phaffii,2023.041667,PETase,Minimal,17,o,green,0.3,-1,0.2
+Komagataella phaffii,2023.041667,PETase,Minimal,17,o,green,0.3,-1,0.1
 Komagataella phaffii,2023.958333,GOS,Minimal,357,o,green,0.3,-1,-0.2
 Komagataella phaffii,2023.458333,PETase,Minimal,4,o,green,0.3,-3,-0.2
 Komagataella phaffii,2001.291667,Nanobody,Minimal,0.6,o,green,0.3,-1,-0.2
 Komagataella phaffii,2012.791667,Snake venom,Minimal,3,o,green,0.3,-1,-0.2
+Komagataella phaffii,2022.875,Collegan,Minimal,16,o,green,0.3,-5,0.05
+Komagataella phaffii,2022.875,Collegan,Minimal,23,o,green,0.3,-3,0.05
 Ogataea (para)polymorpha,1999.375,Phytase,Minimal,108,^,green,0.3,-1,-0.2
 Ogataea (para)polymorpha,2016.375,Streptavidin,Minimal,13,^,green,0.3,-1,0.1
 Kluyveromyces marxianus,1994.791667,HSA,Minimal,2,p,green,0.3,-1,-0.2
