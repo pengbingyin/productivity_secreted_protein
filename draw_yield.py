@@ -89,7 +89,7 @@ def plot_data_figure(df):
 
     # Customize plot with font size 7
     plt.xlabel('Time (Year)', fontsize=7, color='black')
-    plt.ylabel('Yield (mg g-1 DCW)', fontsize=7, color='black')  # Changed to avoid superscript minus issue
+    plt.ylabel('Productivity (mg g-1 DCW)', fontsize=7, color='black')  # Changed to avoid superscript minus issue
 
     # Set y-axis to logarithmic scale due to wide range of yields
     plt.yscale('log')
