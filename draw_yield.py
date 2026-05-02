@@ -42,7 +42,7 @@ def load_and_clean_data(file_path):
 
 # Plot the data in one figure
 def plot_data_figure(df):
-    plt.figure(figsize=(20 * 0.393701, 17 * 0.393701))  # Width and height both 17 cm
+    plt.figure(figsize=(17 * 0.393701, 17 * 0.393701))  # Width and height both 17 cm
 
     for _, row in df.iterrows():
         # Use CSV-defined styles
