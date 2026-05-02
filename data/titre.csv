@@ -17,6 +17,7 @@ Komagataella phaffii,2001.291667,Nanobody,Minimal,0.6,o,green,0.3,-1,-0.2
 Komagataella phaffii,2012.791667,Snake venom,Minimal,3,o,green,0.3,-1,-0.2
 Komagataella phaffii,2022.875,Collagen,Minimal,16,o,green,0.3,-5,0.05
 Komagataella phaffii,2022.875,Collagen,Minimal,23,o,green,0.3,-3,0.05
+Komagataella phaffii,2026.458333,Nanobody,Minimal,97,o,green,0.3,-1,0.1
 Ogataea (para)polymorpha,1999.375,Phytase,Minimal,108,^,green,0.3,-1,-0.2
 Ogataea (para)polymorpha,2016.375,Streptavidin,Minimal,13,^,green,0.3,-1,0.1
 Kluyveromyces marxianus,1994.791667,HSA,Minimal,2,p,green,0.3,-1,-0.2
@@ -25,13 +26,14 @@ Candida boidinii,2002.458333,Cathepsin,Minimal,0.3,s,green,0.3,-1,-0.2
 Komagataella phaffii,2025.625,Ovomucoid,Rich,5,o,black,0.5,-1,0.1
 Komagataella phaffii,2021.375,Prochymosin,Rich,0.8,o,black,0.5,-1,-0.2
 Komagataella phaffii,2017.125,ScFv,Rich,7,o,black,0.5,-1,0.1
-Komagataella phaffii,2025.541667,Anitbody,Rich,62,o,black,0.5,-1,0.2
+Komagataella phaffii,2025.541667,Antibody,Rich,62,o,black,0.5,-1,-0.15
 Komagataella phaffii,2011.708333,Biosimilar,Rich,23,o,black,0.5,-3,-0.2
 Komagataella phaffii,2024.458333,Nanobody,Rich,214,o,black,0.5,-1,-0.2
 Komagataella phaffii,2018.208333,HSA,Rich,87,o,black,0.5,-1,-0.2
 Komagataella phaffii,2024.958333,Nanobody,Rich,17,o,black,0.5,-5,-0.3
 Komagataella phaffii,2024.125,Lipase,Rich,54,o,black,0.5,-3,0.2
 Komagataella phaffii,2024.458333,Lactoferrin,Rich,29,o,black,0.5,-5,-0.05
+Komagataella phaffii,2026.208333,Collegan,Rich,84,o,black,0.5,-4,-0.1
 Ogataea (para)polymorpha,2010.875,HSA,Rich,207,^,black,0.5,-1,-0.2
 Ogataea (para)polymorpha,2007.541667,HSA,Rich,6,^,black,0.5,-1,-0.2
 Ogataea (para)polymorpha,2012.958333,Staphylokinase,Rich,9,^,black,0.5,-3,-0.2
@@ -42,6 +44,7 @@ Saccharomyces cerevisiae,2013.958333,Amylase,Rich,14,D,black,0.5,-1,0.2
 Saccharomyces cerevisiae,2012.958333,Insulin,Rich,4,D,black,0.5,1,-0.2
 Saccharomyces cerevisiae,2024.625,Ovalbumin,Rich,4,D,black,0.5,-1,-0.2
 Saccharomyces cerevisiae,2016.458333,Antibody,Rich,0.9,D,black,0.5,-1,-0.2
+Saccharomyces cerevisiae,2026.125,Amylase,Rich,87,D,black,0.5,-4,0.1
 Kluyveromyces lactis,2013.625,Brazzein,Rich,5,*,black,0.5,-4,0
 Kluyveromyces lactis,2014.958333,Lipase,Rich,12,*,black,0.5,-1,-0.2
 Kluyveromyces lactis,2004.958333,Lysozyme,Rich,10,*,black,0.5,-1,0.2

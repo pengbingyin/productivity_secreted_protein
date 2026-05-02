@@ -11,8 +11,8 @@ import math
 plt.rcParams['font.family'] = 'Arial'
 
 # Define the path to the input CSV file and output folder
-DATA_FILE_PATH = r"C:\Users\pengb\PycharmProjects\protein_review\data\titre.csv"
-OUTPUT_FOLDER = r"C:\Users\pengb\PycharmProjects\protein_review\output"
+DATA_FILE_PATH = r"data\titre.csv"
+OUTPUT_FOLDER = r"output"
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)  # Create output folder if it doesn't exist
 OUTPUT_FILE = os.path.join(OUTPUT_FOLDER, "yield_plot.png")
 
@@ -42,7 +42,7 @@ def load_and_clean_data(file_path):
 
 # Plot the data in one figure
 def plot_data_figure(df):
-    plt.figure(figsize=(17 * 0.393701, 17 * 0.393701))  # Width and height both 17 cm
+    plt.figure(figsize=(20 * 0.393701, 17 * 0.393701))  # Width and height both 17 cm
 
     for _, row in df.iterrows():
         # Use CSV-defined styles
